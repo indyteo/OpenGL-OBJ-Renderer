@@ -4,7 +4,7 @@ Projet réalisé en cours d'OpenGL en E4FI à ESIEE Paris.
 Membres du groupe :
 - [Théo SZANTO](https://github.com/indyteo)
 - [Jenny CAO](https://github.com/jennycjay)
-- [Joe BERTHELIN](https://github.com/)
+- [Joe BERTHELIN](https://github.com/jo3pro)
 
 ![Aperçu du rendu de l'application](Rendu.gif)
 
