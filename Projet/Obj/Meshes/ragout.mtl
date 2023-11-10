@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 70
+map_Kd E:\Mod Stockage\Fallout New Vegas Stockage\Fallout New Vegas\textures\clutter\food\RatStew.dds
+map_Kn E:\Mod Stockage\Fallout New Vegas Stockage\Fallout New Vegas\textures\clutter\food\RatStew_n.dds
